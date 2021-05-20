@@ -9,5 +9,6 @@ API Rest de consulta de cidades do Brasil com dados comparativos e um serviço d
 * Gradle
 
 * PostgreSQL
+* Heroku
 * Docker
 
