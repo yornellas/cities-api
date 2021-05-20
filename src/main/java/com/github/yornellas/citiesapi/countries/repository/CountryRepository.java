@@ -1,6 +1,6 @@
-package com.github.yornellas.citiesapi.repository;
+package com.github.yornellas.citiesapi.countries.repository;
 
-import com.github.yornellas.citiesapi.countries.Country;
+import com.github.yornellas.citiesapi.countries.entities.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CountryRepository extends JpaRepository<Country, Long> {
